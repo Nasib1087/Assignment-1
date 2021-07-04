@@ -41,3 +41,31 @@ h1{
     border-radius: 5px;
 
 }
+.experience-container{
+    display: flex;
+   
+}
+.single-box{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px rgb(54, 53, 52);
+    border-radius: 5px;
+}
+.single-box h3{
+    color: coral;
+}
+#stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(14, 14, 206), rgb(16, 107, 192));
+    border-image-slice: 1;
+}
+#web{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(161, 28, 155), rgb(216, 6, 6));
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}

@@ -64,8 +64,9 @@ h1{
 #web{
     border-left: 7px solid;
     border-image: linear-gradient(rgb(161, 28, 155), rgb(216, 6, 6));
-    border-image-slice: 1;
+    77777777777777777777777777777777border-image-slice: 1;
 }
 footer{
     text-align: center;
+
 }
